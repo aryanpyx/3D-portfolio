@@ -25,17 +25,9 @@ Built with **Vue 3**, **TypeScript**, and **Vite**. Motion via **GSAP** and **Le
 - i18n helpers under `src/i18n/`
 - WebGL / GLSL under `src/three/` where applicable
 
+## Site link: aryanpyx-3d.netlify.app
+
 ## Credits & Attribution
 
 This project is a personalized fork and extension of the original portfolio created by David Heckhoff. 
 
-Please keep:
-
-- existing credit comments in the source code
-- this attribution section in the README
-- a visible reference to the original project/repository in derivative works
-
-Original portfolio:
--> https://david-hckh.com
-
-Commercial reuse or redistribution of substantial portions of this project without permission is prohibited.
