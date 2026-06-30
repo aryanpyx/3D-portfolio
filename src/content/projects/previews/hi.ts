@@ -12,25 +12,25 @@ export default [
     title: "StreakOn",
     slug: "streakon",
     thumbnail: thumbnailStreakon,
-    description: "App für tägliche Gewohnheiten",
+    description: "दैनिक आदतों के लिए ऐप",
   },
   {
     title: "CubeWar",
     slug: "cubewar",
     thumbnail: thumbnailCubeWar,
-    description: "Multiplayer-Strategiespiel",
+    description: "मल्टीप्लेयर रणनीति गेम",
   },
   {
     title: "Quibbo",
     slug: "quibbo",
     thumbnail: thumbnailQuibbo,
-    description: "Multiplayer-Gaming-Plattform",
+    description: "मल्टीप्लेयर गेमिंग प्लेटफॉर्म",
   },
   {
     title: "Sharkie",
     slug: "sharkie",
     thumbnail: thumbnailSharkie,
-    description: "2D-Abenteuerspiel",
+    description: "2D एडवेंचर गेम",
   },
   /**  {
     title: "WebGL Partikel",
@@ -42,6 +42,6 @@ export default [
     title: "Pokédex",
     slug: "pokedex",
     thumbnail: thumbnailPokedex,
-    description: "Open-Source Lernprojekt",
+    description: "ओपन-सोर्स लर्निंग प्रोजेक्ट",
   },
 ] as const satisfies ProjectPreview[];

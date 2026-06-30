@@ -16,14 +16,14 @@ export default {
   videoBorder: false,
   live: "https://cubewar.io",
   description:
-    "CubeWar ist ein browserbasiertes Multiplayer-Spiel, in dem Spieler in schnellen, strategischen Kämpfen gegeneinander antreten.<br/><br/>Ich habe den gesamten Stack selbst entwickelt, inklusive der Spiel-Engine, des Client-Timeline-Systems und des Echtzeit-Netzwerks mit Redis-basiertem Matchmaking für flüssiges Gameplay.",
+    "CubeWar एक ब्राउज़र-आधारित मल्टीप्लेयर गेम है जहां खिलाड़ी तेज़, रणनीतिक लड़ाइयों में एक-दूसरे के खिलाफ प्रतिस्पर्धा करते हैं।<br/><br/>मैंने गेम इंजन, क्लाइंट टाइमलाइन सिस्टम, और Redis-आधारित मैचमेकिंग के साथ रीयल-टाइम नेटवर्किंग सहित संपूर्ण स्टैक स्वयं विकसित किया है।",
   components: [
     {
       type: "media",
       props: {
         type: "video",
         src: videoCubeWar,
-        caption: "Gameplay",
+        caption: "गेमप्ले",
       },
     },
     {
@@ -31,8 +31,8 @@ export default {
       props: {
         type: "image",
         src: cubewar0,
-        alt: "Tutorial",
-        caption: "Tutorial",
+        alt: "ट्यूटोरियल",
+        caption: "ट्यूटोरियल",
       },
     },
     {
@@ -40,8 +40,8 @@ export default {
       props: {
         type: "image",
         src: cubewar1,
-        alt: "Karten Themen",
-        caption: "Karten Themen",
+        alt: "मानचित्र थीम्स",
+        caption: "मानचित्र थीम्स",
       },
     },
     {
@@ -49,8 +49,8 @@ export default {
       props: {
         type: "image",
         src: cubewar2,
-        alt: "Authentifizierung",
-        caption: "Authentifizierung",
+        alt: "प्रमाणीकरण",
+        caption: "प्रमाणीकरण",
       },
     },
     {
@@ -58,8 +58,8 @@ export default {
       props: {
         type: "image",
         src: cubewar3,
-        alt: "Responsives Design",
-        caption: "Responsives Design",
+        alt: "रिस्पॉन्सिव डिज़ाइन",
+        caption: "रिस्पॉन्सिव डिज़ाइन",
       },
     },
     {
@@ -67,8 +67,8 @@ export default {
       props: {
         type: "image",
         src: cubewar4,
-        alt: "Mehrere Spielmodi",
-        caption: "Mehrere Spielmodi",
+        alt: "कई गेम मोड",
+        caption: "कई गेम मोड",
       },
     },
     {
@@ -76,8 +76,8 @@ export default {
       props: {
         type: "image",
         src: cubewar5,
-        alt: "Party-System",
-        caption: "Party-System",
+        alt: "पार्टी सिस्टम",
+        caption: "पार्टी सिस्टम",
       },
     },
   ],

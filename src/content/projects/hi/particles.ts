@@ -13,14 +13,14 @@ export default {
   live: "https://particles.david-hckh.com/",
   videoBorder: false,
   description:
-    "Ein experimentelles WebGL-Projekt mit OGL.js, das Partikel mithilfe mathematischer Formeln und Noise-Funktionen animiert.<br/><br/>Die Partikel bewegen sich fließend zwischen verschiedenen 3D-Formen, die ineinander übergehen.",
+    "OGL.js के साथ एक प्रायोगिक WebGL प्रोजेक्ट जो गणितीय सूत्रों और शोर कार्यों का उपयोग करके कणों को एनिमेट करता है।<br/><br/>कण एक-दूसरे में विलीन होने वाले विभिन्न 3D आकारों के बीच सुचारू रूप से चलते हैं।",
   components: [
     {
       type: "media",
       props: {
         type: "video",
         src: videoParticles,
-        caption: "Animiertes Partikelsystem",
+        caption: "एनिमेटेड कण प्रणाली",
       },
     },
     {
@@ -28,8 +28,8 @@ export default {
       props: {
         type: "image",
         src: particles0,
-        alt: "Knoten Form",
-        caption: "Knoten Form",
+        alt: "नोड आकार",
+        caption: "नोड आकार",
       },
     },
     {
@@ -37,8 +37,8 @@ export default {
       props: {
         type: "image",
         src: particles1,
-        alt: "Donut Form",
-        caption: "Donut Form",
+        alt: "डोनट आकार",
+        caption: "डोनट आकार",
       },
     },
     {
@@ -46,8 +46,8 @@ export default {
       props: {
         type: "image",
         src: particles2,
-        alt: "Kugel Form",
-        caption: "Kugel Form",
+        alt: "गोलाकार आकार",
+        caption: "गोलाकार आकार",
       },
     },
   ],
