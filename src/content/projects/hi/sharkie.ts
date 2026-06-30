@@ -15,14 +15,14 @@ export default {
   live: "https://sharkie.david-hckh.com/",
   source: "https://github.com/davidhckh/sharkie-game",
   description:
-    "Sharkie ist ein 2D-Unterwasser-Abenteuerspiel, entwickelt mit Vanilla JavaScript und HTML5 Canvas.<br/><br/>Das Projekt basiert auf objektorientierten Programmierprinzipien und nutzt eigene Klassen für Spielfiguren, Gegner und Spielsysteme, ergänzt durch flüssige Animationen, Kampfsysteme und mehrschichtige Parallax-Hintergründe.",
+    "शार्की (Sharkie) एक 2D अंडरवाटर एडवेंचर गेम है, जिसे वैनिला जावास्क्रिप्ट और HTML5 कैनवस का उपयोग करके विकसित किया गया है।<br/><br/>प्रोजेक्ट ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग सिद्धांतों पर आधारित है और इसमें पात्रों, दुश्मनों और गेम सिस्टम के लिए कस्टम कक्षाओं का उपयोग किया गया है, जो सहज एनिमेशन, कॉम्बैट सिस्टम और बहु-स्तरीय लंबन (parallax) पृष्ठभूमि के साथ पूरा होता है।",
   components: [
     {
       type: "media",
       props: {
         type: "video",
         src: videoSharkie,
-        caption: "Gameplay",
+        caption: "गेमप्ले",
       },
     },
     {
@@ -30,8 +30,8 @@ export default {
       props: {
         type: "image",
         src: sharkie0,
-        alt: "Spielfiguren und Karten-Design",
-        caption: "Spielfiguren und Karten-Design",
+        alt: "चरित्र और मानचित्र डिज़ाइन",
+        caption: "चरित्र और मानचित्र डिज़ाइन",
       },
     },
     {
@@ -39,8 +39,8 @@ export default {
       props: {
         type: "image",
         src: sharkie1,
-        alt: "Boss-Kampf",
-        caption: "Boss-Kampf",
+        alt: "बॉस की लड़ाई",
+        caption: "बॉस की लड़ाई",
       },
     },
     {
@@ -48,8 +48,8 @@ export default {
       props: {
         type: "image",
         src: sharkie2,
-        alt: "Mission",
-        caption: "Mission",
+        alt: "मिशन",
+        caption: "मिशन",
       },
     },
     {
@@ -57,8 +57,8 @@ export default {
       props: {
         type: "image",
         src: sharkie3,
-        alt: "Sieg-Screen",
-        caption: "Sieg-Screen",
+        alt: "जीत की स्क्रीन",
+        caption: "जीत की स्क्रीन",
       },
     },
     {
@@ -66,8 +66,8 @@ export default {
       props: {
         type: "image",
         src: sharkie4,
-        alt: "Todes-Screen",
-        caption: "Todes-Screen",
+        alt: "मृत्यु स्क्रीन",
+        caption: "मृत्यु स्क्रीन",
       },
     },
   ],

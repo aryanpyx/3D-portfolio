@@ -15,14 +15,14 @@ export default {
   tags: ["three", "node", "kubernetes", "redis", "postgresql"],
   videoBorder: true,
   description:
-    "Quibbo ist eine Plattform für schnelle, rundenbasierte Multiplayer-Spiele. Sie verbindet Matchmaking, anpassbare 3D-Avatare und Account-Integration mit einem Rangsystem auf ELO-Basis.<br/><br/>Das Projekt begann als technisches Experiment und entwickelte sich zu einem skalierbaren System, um neue Spielideen auszuprobieren.",
+    "Quibbo तेज़, टर्न-आधारित मल्टीप्लेयर गेम के लिए एक प्लेटफ़ॉर्म है। यह ELO-आधारित रैंकिंग प्रणाली के साथ मैचमेकिंग, अनुकूलन योग्य 3D अवतार और खाता एकीकरण को जोड़ता है।<br/><br/>प्रोजेक्ट एक तकनीकी प्रयोग के रूप में शुरू हुआ और नए गेम विचारों को आज़माने के लिए एक स्केलेबल सिस्टम के रूप में विकसित हुआ।",
   components: [
     {
       type: "media",
       props: {
         type: "video",
         src: videoQuibbo,
-        caption: "Benutzeroberfläche",
+        caption: "यूज़र इंटरफ़ेस",
       },
     },
     {
@@ -30,8 +30,8 @@ export default {
       props: {
         type: "image",
         src: quibbo0,
-        alt: "Avatar Ersteller",
-        caption: "Avatar Ersteller",
+        alt: "अवतार निर्माता",
+        caption: "अवतार निर्माता",
       },
     },
     {
@@ -39,8 +39,8 @@ export default {
       props: {
         type: "image",
         src: quibbo1,
-        alt: "Mehrspieler Tic-Tac-Toe",
-        caption: "Mehrspieler Tic-Tac-Toe",
+        alt: "मल्टीप्लेयर टिक-टैक-टो",
+        caption: "मल्टीप्लेयर टिक-टैक-टो",
       },
     },
     {
@@ -48,8 +48,8 @@ export default {
       props: {
         type: "image",
         src: quibbo2,
-        alt: "Verschiedene Minispiele",
-        caption: "Verschiedene Minispiele",
+        alt: "विभिन्न मिनीगेम्स",
+        caption: "विभिन्न मिनीगेम्स",
       },
     },
     {
@@ -57,8 +57,8 @@ export default {
       props: {
         type: "image",
         src: quibbo3,
-        alt: "Avatar Variationen",
-        caption: "Avatar Variationen",
+        alt: "अवतार विविधताएं",
+        caption: "अवतार विविधताएं",
       },
     },
     {
@@ -66,8 +66,8 @@ export default {
       props: {
         type: "image",
         src: quibbo4,
-        alt: "Responsives Design",
-        caption: "Responsives Design",
+        alt: "रिस्पॉन्सिव डिज़ाइन",
+        caption: "रिस्पॉन्सिव डिज़ाइन",
       },
     },
     {
@@ -75,8 +75,8 @@ export default {
       props: {
         type: "image",
         src: quibbo5,
-        alt: "Dunkles Design",
-        caption: "Dunkles Design",
+        alt: "डार्क मोड",
+        caption: "डार्क मोड",
       },
     },
   ],
