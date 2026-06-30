@@ -26,7 +26,7 @@ Built with **Vue 3**, **TypeScript**, and **Vite**. Motion via **GSAP** and **Le
 - WebGL / GLSL under `src/three/` where applicable
 
 ## Site link: 
-https//:aryanpyx-3d.netlify.app
+[https//:aryanpyx-3d.netlify.app](https://app.netlify.com/projects/aryanpyx-3d/overview)
 
 ## Credits & Attribution
 
